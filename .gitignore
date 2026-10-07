@@ -1,0 +1,34 @@
+# Qt / qmake / MinGW build products
+*.o
+*.obj
+Makefile
+Makefile.*
+*.Debug
+*.Release
+/workbuddy2api-manager.exe
+/build/
+/build-*/
+/manager/build/
+/manager/build-*/
+/manager/debug/
+/manager/release/
+**/.qmake.stash
+/dist/
+
+# Local WorkBuddy2API deployment data (never publish)
+/config.json
+/config.json.*
+/auths/
+/data/
+/backups/
+*.log
+*.pid
+*.key
+*.pem
+.env
+.env.*
+
+# Local release archives and IDE state
+*.zip
+.idea/
+.vscode/
