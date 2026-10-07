@@ -1,4 +1,5 @@
 Copyright (c) 2026 liushuye555
 
-The Qt Manager source in this repository is offered under the PolyForm Noncommercial License 1.0.0.
-Third-party components and the WorkBuddy2API upstream project remain under their respective licenses.
+The WorkBuddy2API Qt Manager's original source code and application are provided under the custom Personal Study and Research License 1.0 in LICENSE. Redistribution of the Manager source, application binary, and modified versions is prohibited unless the copyright holder grants written permission.
+
+Third-party components and the WorkBuddy2API upstream project remain under their respective licenses. See THIRD-PARTY-NOTICES.md.

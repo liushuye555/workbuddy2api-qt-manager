@@ -1,73 +1,54 @@
-# PolyForm Noncommercial License 1.0.0
+# 个人学习与研究许可（自定义许可）1.0
 
-<https://polyformproject.org/licenses/noncommercial/1.0.0>
+版权所有 © 2026 liushuye555
 
-## Acceptance
+本许可为自定义许可，不是标准开源许可证。除本许可明确授予的有限权利外，许可作品的所有权利均由版权所有者保留。
 
-In order to get any license under these terms, you must agree to them as both strict obligations and conditions to all your licenses.
+## 1. 许可作品范围
 
-## Copyright License
+“许可作品”仅指本仓库中由 WorkBuddy2API Qt Manager 版权所有者创作并有权许可的管理器源代码、管理器图标、管理器使用文档及据此构建的管理器程序。许可作品不包括本 `LICENSE` 文本、第三方声明、SBOM、`licenses/` 下的第三方许可证文本、WorkBuddy2API 上游项目、Qt、MinGW、Windows 组件或其他第三方材料。第三方材料的范围和许可见 `THIRD-PARTY-NOTICES.md` 及相应许可证文件；本段列出的文件不因此获得管理器源码或程序的再分发授权。
 
-The licensor grants you a copyright license for the software to do everything you might do with the software that would otherwise infringe the licensor's copyright in it for any permitted purpose.  However, you may only distribute the software according to [Distribution License](#distribution-license) and make changes or new works based on the software according to [Changes and New Works License](#changes-and-new-works-license).
+## 2. 有限授权
 
-## Distribution License
+在遵守本许可的前提下，版权所有者仅授予自然人一项有限、非独占、不可转让、不可再许可的权利，用于个人非商业的学习、研究和评估。该权利允许你：
 
-The licensor grants you an additional copyright license to distribute copies of the software.  Your license to distribute covers distributing the software with changes and new works permitted by [Changes and New Works License](#changes-and-new-works-license).
+- 从版权所有者指定的发布渠道获取许可作品；
+- 为本人在个人设备上保存运行所必需的本地副本和备份；
+- 为上述个人学习、研究和评估目的编译、运行及修改许可作品。
 
-## Notices
+本许可不授权企业、组织或其他主体使用许可作品，也不授权将其用于商业、生产、客户交付、收费服务或营利活动。需要其他用途时，必须事先取得版权所有者明确的书面许可。
 
-You must ensure that anyone who gets a copy of any part of the software from you also gets a copy of these terms or the URL for them above, as well as copies of any plain-text lines beginning with `Required Notice:` that the licensor provided with the software.  For example:
+## 3. 禁止再分发
 
-> Required Notice: Copyright Yoyodyne, Inc. (http://example.com)
+除版权所有者事先明确书面授权外，你不得以任何方式向任何第三方提供许可作品的全部或任何部分，包括但不限于：
 
-## Changes and New Works License
+- 再分发、转交、转售、出租、出借、再许可或公开展示；
+- 上传、镜像、托管、发布或通过网盘、代码平台、网站、社交媒体、即时通讯等渠道分享；
+- 提供许可作品的源码、二进制、安装包、修改版本，或允许他人访问、下载或使用；
+- 将许可作品或其修改部分合并到供第三方获取的产品、服务、项目或发行包中。
 
-The licensor grants you an additional copyright license to make changes and new works based on the software for any permitted purpose.
+即使没有收费或注明来源，也不构成再分发许可。你可以仅为本人按第 2 条所述目的制作并保留必要的本地副本；不得将这些副本提供给他人。
 
-## Patent License
+## 4. 修改作品
 
-The licensor grants you a patent license for the software that covers patent claims the licensor can license, or becomes able to license, that you would infringe by using the software.
+你可以仅为第 2 条允许的个人目的修改许可作品。所有修改版本仍受本许可约束，不得再分发或向第三方提供。除非另有书面约定，修改不会转移许可作品原有的版权或其他权利。
 
-## Noncommercial Purposes
+## 5. 第三方组件
 
-Any noncommercial purpose is a permitted purpose.
+本许可不适用于 Qt、MinGW、Windows 或其他第三方组件，也不限制或取代这些组件各自许可证授予的权利。第三方组件须按其随附许可证单独处理。尤其是，本许可不限制 Qt 等组件许可证明确保留的替换、修改或为调试此类修改而进行逆向工程的权利。对完整 WorkBuddy2API Qt Manager 程序包的再分发仍受第 3 条对许可作品的限制。
 
-## Personal Uses
+## 6. 权利保留与例外授权
 
-Personal use for research, experiment, and testing for the benefit of public knowledge, personal study, private entertainment, hobby projects, amateur pursuits, or religious observance, without any anticipated commercial application, is use for a permitted purpose.
+除第 2 条明确授予的有限权利外，版权所有者保留所有权利。任何超出本许可的例外均须由版权所有者书面授权；沉默、源码公开或能够下载均不构成额外授权。
 
-## Noncommercial Organizations
+## 7. 免责声明
 
-Use by any charitable organization, educational institution, public research organization, public safety or health organization, environmental protection organization, or government institution is use for a permitted purpose regardless of the source of funding or obligations resulting from the funding.
+许可作品按“现状”提供，不提供任何明示或默示保证，包括适销性、特定用途适用性和不侵权的保证。在适用法律允许的最大范围内，版权所有者不对因使用或无法使用许可作品而产生的损害承担责任。
 
-## Fair Use
+## 8. 许可终止与可分割性
 
-You may have "fair use" rights for the software under the law. These terms do not limit them.
+违反本许可时，本许可授予的权利在适用法律允许的范围内自动终止。若本许可的任何条款被认定为不可执行，其余条款仍继续有效。
 
-## No Other Rights
+---
 
-These terms do not allow you to sublicense or transfer any of your licenses to anyone else, or prevent the licensor from granting licenses to anyone else.  These terms do not imply any other licenses.
-
-## Patent Defense
-
-If you make any written claim that the software infringes or contributes to infringement of any patent, your patent license for the software granted under these terms ends immediately. If your company makes such a claim, your patent license ends immediately for work on behalf of your company.
-
-## Violations
-
-The first time you are notified in writing that you have violated any of these terms, or done anything with the software not covered by your licenses, your licenses can nonetheless continue if you come into full compliance with these terms, and take practical steps to correct past violations, within 32 days of receiving notice.  Otherwise, all your licenses end immediately.
-
-## No Liability
-
-***As far as the law allows, the software comes as is, without any warranty or condition, and the licensor will not be liable to you for any damages arising out of these terms or the use or nature of the software, under any kind of legal claim.***
-
-## Definitions
-
-The **licensor** is the individual or entity offering these terms, and the **software** is the software the licensor makes available under these terms.
-
-**You** refers to the individual or entity agreeing to these terms.
-
-**Your company** is any legal entity, sole proprietorship, or other kind of organization that you work for, plus all organizations that have control over, are under the control of, or are under common control with that organization.  **Control** means ownership of substantially all the assets of an entity, or the power to direct its management and policies by vote, contract, or otherwise.  Control can be direct or indirect.
-
-**Your licenses** are all the licenses granted to you for the software under these terms.
-
-**Use** means anything you do with the software requiring one of your licenses.
+如需申请商业使用、再分发或其他例外授权，请通过本项目的 GitHub 仓库联系版权所有者。

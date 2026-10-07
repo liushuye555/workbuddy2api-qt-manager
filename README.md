@@ -72,10 +72,14 @@ windeployqt --release ..\workbuddy2api-manager.exe
 
 请在 [Issues](https://github.com/liushuye555/workbuddy2api-qt-manager/issues) 提交问题。反馈前请注明 Windows 版本、管理器版本和复现步骤；不要附上真实 Token、账号 JSON 或未脱敏日志。
 
-## 许可证
+## 许可证与再分发限制
 
-本仓库中的 Qt 管理器源码采用 [PolyForm Noncommercial License 1.0.0](https://polyformproject.org/licenses/noncommercial/1.0.0/)。该许可允许非商业用途下的使用、修改和再分发；商业用途需要另行取得权利人许可。本许可只适用于本仓库中的管理器代码，不改变 WorkBuddy2API 上游项目、Qt 或其他第三方组件各自的许可证。
+本仓库中由本项目作者提供的管理器源码、图标及据此构建的管理器程序，采用仓库内的自定义《个人学习与研究许可 1.0》。该许可仅授权个人进行非商业学习、研究和评估；允许为本人使用在个人设备上下载、保存必要副本及修改，但**禁止将管理器源码、管理器二进制或其修改版本再分发、转交、镜像、公开发布、转售或提供给其他人**。需要超出许可范围的使用，请先取得作者书面授权。
 
-本项目公开源码，但不是 OSI 定义的开源软件，因为许可证限制商业用途。
+此限制只适用于本项目管理器自有部分，不覆盖 WorkBuddy2API 上游项目及 Qt、MinGW 等第三方组件；第三方组件仍按各自许可证行使权利。详见 [第三方组件声明](THIRD-PARTY-NOTICES.md) 和发布包内的 `licenses/` 目录。
 
-Windows 发布包还包含 Qt 与 MinGW 运行库。它们不受 PolyForm 许可证约束；组件、来源和对应许可证见 [第三方声明](THIRD-PARTY-NOTICES.md) 及发布包内的 `licenses/` 目录。
+本项目虽然公开源码供查看，但使用自定义限制性许可，不是 OSI 定义的开源软件。
+
+此为自定义许可文本，不构成法律意见；如需将其用于正式许可或维权，请按适用法律咨询专业律师。
+
+**历史版本说明：** `v0.1.0` 最初以 PolyForm Noncommercial License 1.0.0 发布。该版本当时授予的权利仍按该版本随附的许可证处理；本自定义许可适用于 `v0.1.1` 及之后按新许可发布的版本，不能追溯改变既有授权。
